@@ -3,14 +3,6 @@ UJIAN TENGAH SEMESTER ( Taufan Riztian Anwari, 24110310083 ) 2B BISNIS DIGITAL
 
 penjelasan dalam soal uts
 
-Untuk memberikan diskon dalam konteks sistem e-commerce, kita dapat menggunakan struktur kontrol percabangan dalam Python, yaitu if statement. Struktur ini memungkinkan kita untuk memeriksa apakah total belanja memenuhi syarat untuk mendapatkan diskon.
-
-Logika Pemberian Diskon
-Jika total belanja lebih dari Rp500.000, maka pelanggan berhak mendapatkan diskon 10%.
-Jika tidak, total belanja tetap dan tidak ada diskon.
-Program Python untuk Menghitung Total Bayar Setelah Diskon
-Tipe data menentukan jenis nilai yang dapat disimpan dalam variabel. Dalam studi kasus ini: • Integer (int): digunakan untuk menyimpan nilai ujian (misalnya: 80, 75, 90). • Float (float): digunakan jika nilai ujian mengandung desimal (misalnya: 76.5). • Boolean (bool): digunakan untuk menyimpan hasil logika, seperti apakah siswa lulus atau tidak (True/False). • String (str) (opsional): bisa digunakan untuk menyimpan nama siswa atau keterangan seperti “Lulus” / “Tidak Lulus”.
-
 Manfaat Penggunaan Fungsi dalam Menghitung Faktorial
 
 Modularitas: Fungsi memungkinkan kita memecah program menjadi bagian-bagian yang lebih kecil. Ini membuat kode lebih mudah dibaca, dimengerti, dan dirawat.
@@ -37,8 +29,6 @@ Penggunaan Array Array (atau list dalam Python) digunakan untuk menyimpan nilai-
 
 Penggunaan Perulangan Perulangan akan digunakan untuk meminta input dari pengguna sebanyak 5 kali. Kita dapat menggunakan for loop untuk melakukannya. Setiap nilai yang dimasukkan akan disimpan dalam array (list).
 
-Langkah-langkah Algoritma
-
 Inisialisasi Variabel:
 Siapkan variabel untuk menyimpan harga masing-masing barang. Misalnya, harga_barang1, harga_barang2, dan harga_barang3.
 Siapkan variabel untuk menyimpan total harga, misalnya total_harga.
@@ -55,3 +45,18 @@ Jumlahkan harga ketiga barang untuk mendapatkan total harga.
 Total_harga = harga_barang1 + harga_barang2 + harga_barang3.
 Tampilkan Total Harga:
 Tampilkan hasil total harga kepada pengguna.
+
+Untuk memberikan diskon dalam konteks sistem e-commerce, kita dapat menggunakan struktur kontrol percabangan dalam Python, yaitu if statement. Struktur ini memungkinkan kita untuk memeriksa apakah total belanja memenuhi syarat untuk mendapatkan diskon.
+
+Logika Pemberian Diskon
+Jika total belanja lebih dari Rp500.000, maka pelanggan berhak mendapatkan diskon 10%.
+Jika tidak, total belanja tetap dan tidak ada diskon.
+Program Python untuk Menghitung Total Bayar Setelah Diskon
+
+
+
+Tipe data menentukan jenis nilai yang dapat disimpan dalam variabel. Dalam studi kasus ini: • Integer (int): digunakan untuk menyimpan nilai ujian (misalnya: 80, 75, 90). • Float (float): digunakan jika nilai ujian mengandung desimal (misalnya: 76.5). • Boolean (bool): digunakan untuk menyimpan hasil logika, seperti apakah siswa lulus atau tidak (True/False). • String (str) (opsional): bisa digunakan untuk menyimpan nama siswa atau keterangan seperti “Lulus” / “Tidak Lulus”.
+
+
+
+
